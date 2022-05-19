@@ -9,7 +9,7 @@ html,body{
   display: grid;
   height: 100%;
   width: 100%;
-  place-items: center;
+ /* place-items: center;
   /*background: -webkit-radial-gradient(left, #003366,#004080,#0059b3
 , #0073e6);*/
 background: linear-gradient(to right, rgba(0, 0, 0, 1), rgba(255, 255, 255, 1));
@@ -27,6 +27,7 @@ background: linear-gradient(to right, rgba(0, 0, 0, 1), rgba(255, 255, 255, 1));
   padding: 30px;
   border-radius: 15px;
   box-shadow: 0px 15px 20px rgba(0,0,0,0.1);
+  margin-bottom: 140px;
 }
 .wrapper .title-text{
   display: flex;
